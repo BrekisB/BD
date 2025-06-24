@@ -1,5 +1,5 @@
 # Разработка базы данных для системы самообслуживания в ресторане быстрого питания
-![Скриншот](https:![tBL](https://github.com/user-attachments/assets/8ed22387-f4e5-4e29-a24c-b5b792816ba1)
+![Скриншот](https://github.com/user-attachments/assets/8ed22387-f4e5-4e29-a24c-b5b792816ba1)
 ## Типовые запросы
 
 ## Типовые Запросы
